@@ -1,0 +1,7 @@
+
+We are testing our code with UnityTestTools which implements Nunit testing library for C#.
+To run the tests Just open up the EditorTestRUnner window in unity and right click run all tests. 
+In all the tests the enviroment is set up then tested.
+The way we set up the enviroment is done by first creating a new gameobject then adding and required classes for the test to that object.
+We then set and variables to the instance of those classes to set up required values/arguments.
+Finally we execute the method being tested then use NUnit assertions to test that the output is expected.

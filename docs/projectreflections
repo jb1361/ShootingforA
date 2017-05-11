@@ -1,0 +1,28 @@
+Jeremy Johnson:
+      Main Menu: In the project I started out creating the main Menu. My main issue with it was rendering the canvas so that the UI
+   was perfectly proportional to any size screen. Audio was another key to the menu, with a Doom audio ambiance that gave you chills
+   before starting your game. Buttons were created and although there are three different buttons for single player, multiplayer, and
+   settings, any you click on will send you to the single player mode. With so much more that was wanting to be done for a great UI,
+   these were the main keys to the menu. 
+   
+      Single Player: Inside single player I implemented many parts of the UI, such as the castle architecture, statue and its placement. A time-
+   consuming part of the project was creating the score and implementing it to increase from various instances such as kills and levels 
+   completed. After the score was done I then placed its dynamic string to the screen for the player to see his or her progress, along with the
+   level of the game. The last thing I've completed with the single player gameplay was adding the images for the buttons of our power-ups.
+   
+      After The UI for the gameplay was complete, I then moved on to the pause button. I wanted to make the pause interface similar to any
+    other shooting game by showing the players kills and other attributes you wouldn't necessarily see during gameplay. The rough part
+    about that part was stopping the scene completely and adding all of the features while the pause button was active such as main menu
+    buttons, darkening the screen, adding dynamic scores and kills, and also things like the unpause button. This was my least favorite
+    part of the project just because it took a little more time and thinking than the rest.
+    
+      Once the pause endeavour was complete, I then started working on the Audio for every aspect of single player mode that I felt should
+    have some sort of sound effect. I created Audio objects for background music, shooting sounds, power-up sound effects, to even a 
+    clicking sound for the buttons you pressed for main menu and such. The thing I would mention about my experiences with the audio
+    would be how I had fun creating them and learning trivia such as the wilhelm scream. Yes, the wilhelm scream is the sound
+    effect for when you die.
+
+
+Justin Butler:
+
+      I first started the project by importing all previous assets that I have used before although only a couple of them are actually being used.

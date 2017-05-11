@@ -1,0 +1,291 @@
+# This is to record the maintainability index for our classes
+
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Project
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Maintainability Index: 78
+Cyclomatic Complexity: 398
+Depth of Inheritance: 6
+Class Coupling: 82
+Lines of Code: 893
+
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: Bullet
+Maintainability Index: 79
+Cyclomatic Complexity: 7
+Depth of Inheritance: 5
+Class Coupling: 11
+Lines of Code: 10
+
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: CameraDampingController
+Maintainability Index: 68
+Cyclomatic Complexity: 7
+Depth of Inheritance: 5
+Class Coupling: 11
+Lines of Code: 17
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: cameraFollow
+Maintainability Index: 63
+Cyclomatic Complexity: 12
+Depth of Inheritance: 5
+Class Coupling: 7
+Lines of Code: 21
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: CameraPositionController
+Maintainability Index: 51
+Cyclomatic Complexity: 31
+Depth of Inheritance: 5
+Class Coupling: 19
+Lines of Code: 73
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: DeathAnimation
+Maintainability Index: 63
+Cyclomatic Complexity: 4
+Depth of Inheritance: 5
+Class Coupling: 15
+Lines of Code: 24
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: decalLimiter
+Maintainability Index: 80
+Cyclomatic Complexity: 15
+Depth of Inheritance: 5
+Class Coupling: 3
+Lines of Code: 20
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: EnemyController
+Maintainability Index: 72
+Cyclomatic Complexity: 34
+Depth of Inheritance: 5
+Class Coupling: 18
+Lines of Code: 67
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: fireWeapon
+Maintainability Index: 82
+Cyclomatic Complexity: 11
+Depth of Inheritance: 5
+Class Coupling: 5
+Lines of Code: 19
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: Grenade
+Maintainability Index: 75
+Cyclomatic Complexity: 7
+Depth of Inheritance: 5
+Class Coupling: 9
+Lines of Code: 10
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: IplayerController
+Maintainability Index: 100
+Cyclomatic Complexity: 5
+Depth of Inheritance: 0
+Class Coupling: 0
+Lines of Code: 0
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: IplayerInputController
+Maintainability Index: 100
+Cyclomatic Complexity: 1
+Depth of Inheritance: 0
+Class Coupling: 0
+Lines of Code: 0
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: IPowerUp
+Maintainability Index: 100
+Cyclomatic Complexity: 0
+Depth of Inheritance: 0
+Class Coupling: 0
+Lines of Code: 0
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: MouseLock
+Maintainability Index: 80
+Cyclomatic Complexity: 5
+Depth of Inheritance: 5
+Class Coupling: 3
+Lines of Code: 9
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: MyCrossPlatformInputManager
+Maintainability Index: 95
+Cyclomatic Complexity: 2
+Depth of Inheritance: 1
+Class Coupling: 2
+Lines of Code: 3
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: Nuke
+Maintainability Index: 80
+Cyclomatic Complexity: 8
+Depth of Inheritance: 5
+Class Coupling: 9
+Lines of Code: 9
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: playerController
+Maintainability Index: 80
+Cyclomatic Complexity: 21
+Depth of Inheritance: 5
+Class Coupling: 13
+Lines of Code: 33
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: PlayerControllerInterface
+Maintainability Index: 91
+Cyclomatic Complexity: 6
+Depth of Inheritance: 1
+Class Coupling: 1
+Lines of Code: 11
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: playerGUI
+Maintainability Index: 60
+Cyclomatic Complexity: 8
+Depth of Inheritance: 5
+Class Coupling: 14
+Lines of Code: 43
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: playerInputController
+Maintainability Index: 81
+Cyclomatic Complexity: 28
+Depth of Inheritance: 5
+Class Coupling: 8
+Lines of Code: 36
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: PowerUp
+Maintainability Index: 73
+Cyclomatic Complexity: 39
+Depth of Inheritance: 5
+Class Coupling: 13
+Lines of Code: 74
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: powerUpDrop
+Maintainability Index: 72
+Cyclomatic Complexity: 9
+Depth of Inheritance: 5
+Class Coupling: 10
+Lines of Code: 20
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: SceneLoader
+Maintainability Index: 97
+Cyclomatic Complexity: 2
+Depth of Inheritance: 5
+Class Coupling: 2
+Lines of Code: 2
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: StageController
+Maintainability Index: 70
+Cyclomatic Complexity: 18
+Depth of Inheritance: 5
+Class Coupling: 10
+Lines of Code: 42
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: Timer
+Maintainability Index: 91
+Cyclomatic Complexity: 6
+Depth of Inheritance: 1
+Class Coupling: 3
+Lines of Code: 10
+
+Project: ShootingforA
+Configuration: Debug
+Scope: Type
+Assembly: C:\Users\justi\Desktop\346 Project\ShootingforA\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Type: TransparencyController
+Maintainability Index: 66
+Cyclomatic Complexity: 5
+Depth of Inheritance: 5
+Class Coupling: 9
+Lines of Code: 30
+
+
